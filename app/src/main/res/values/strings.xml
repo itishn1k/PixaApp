@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pixa Bay App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="any_word">Любое слово</string>
+    <string name="fetch">загрузить</string>
+    <string name="more">еще</string>
+</resources>
